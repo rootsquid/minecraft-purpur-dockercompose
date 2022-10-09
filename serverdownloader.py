@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
     print("Running purpur python script")    
 
-    os.environ["VERSIONPURPUR"] = "1.19.2"
+    
 
     url = "https://api.purpurmc.org/v2/purpur"
 
