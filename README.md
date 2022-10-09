@@ -18,3 +18,9 @@ services:
      - 25565:25565
    restart: unless-stopped
 ```
+Use VERSIONPURPUR for specific versions
+example:
+- VERSIONPURPUR=1.19.2
+
+Get a list of all versions from: 
+https://api.purpurmc.org/v2/purpur
