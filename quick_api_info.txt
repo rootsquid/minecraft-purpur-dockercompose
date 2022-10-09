@@ -26,6 +26,3 @@ Downloads API endpoints:
     https://api.purpurmc.org/v2/purpur/<version>/<build>/download
     Download the latest build for a version of Minecraft:
     https://api.purpurmc.org/v2/purpur/<version>/latest/download
-
-
-Test v_v
