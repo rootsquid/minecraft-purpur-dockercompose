@@ -1,0 +1,29 @@
+#From https://api.purpurmc.org/
+
+/v2 - Get all projects
+
+/v2/{project} - Get project info
+
+/v2/{project}/{version} - Get version info
+
+/v2/{project}/{version}/{build} - Get build info
+
+/v2/{project}/{version}/{build}/download - Download build
+
+/v2/{project}/{version}/latest - Get latest build info
+
+/v2/{project}/{version}/latest/download - Download latest build
+
+#From https://purpurmc.org/docs/#downloads
+
+Downloads API endpoints:
+
+    List versions of Minecraft with builds available:
+    https://api.purpurmc.org/v2/purpur/
+    List builds for a version of Minecraft:
+    https://api.purpurmc.org/v2/purpur/<version>
+    Download a specific build of a specific version:
+    https://api.purpurmc.org/v2/purpur/<version>/<build>/download
+    Download the latest build for a version of Minecraft:
+    https://api.purpurmc.org/v2/purpur/<version>/latest/download
+
